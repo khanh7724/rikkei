@@ -1,0 +1,41 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Trang-1" id="VFwuJfWWye1QD9Rx0Kg8">
+    <mxGraphModel dx="1141" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZvLERiO7Mi4_xzUWjsQi-3" edge="1" parent="1" source="ZvLERiO7Mi4_xzUWjsQi-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ZvLERiO7Mi4_xzUWjsQi-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZvLERiO7Mi4_xzUWjsQi-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Bắt đầu" vertex="1">
+          <mxGeometry height="80" width="120" x="250" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZvLERiO7Mi4_xzUWjsQi-5" edge="1" parent="1" source="ZvLERiO7Mi4_xzUWjsQi-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZvLERiO7Mi4_xzUWjsQi-2" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Nhập&amp;nbsp; a, b" vertex="1">
+          <mxGeometry height="60" width="120" x="250" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="ZvLERiO7Mi4_xzUWjsQi-7" edge="1" parent="1" source="gkujj0kL-K4B2fjWqxim-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ZvLERiO7Mi4_xzUWjsQi-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="350" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZvLERiO7Mi4_xzUWjsQi-14" edge="1" parent="1" source="ZvLERiO7Mi4_xzUWjsQi-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ZvLERiO7Mi4_xzUWjsQi-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZvLERiO7Mi4_xzUWjsQi-6" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="xuất sum" vertex="1">
+          <mxGeometry height="60" width="120" x="250" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="ZvLERiO7Mi4_xzUWjsQi-13" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="kết thúc" vertex="1">
+          <mxGeometry height="80" width="120" x="250" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="gkujj0kL-K4B2fjWqxim-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="sum = a + b" vertex="1">
+          <mxGeometry height="60" width="120" x="250" y="270" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
